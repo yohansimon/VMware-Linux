@@ -1,6 +1,6 @@
 # VMware-Linux
 <p align = 'center'>
-<img src ="https://github.com/yohansimon/VMware-Linux/issues/1#issue-3670850634" weight =100>
+<img src ="https://github.com/yohansimon/VMware-Linux/issues/1#issue-3670850634" weight =300>
 
 Installation de VMware sous Debian, Ubuntu...
 ```bash
