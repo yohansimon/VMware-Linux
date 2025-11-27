@@ -1,4 +1,5 @@
 # VMware-Linux
+https://github.com/yohansimon/VMware-Linux/issues/1#issue-3670850634
 Installation de VMware sous Debian, Ubuntu...
 ```bash
 sudo apt update && sudo apt upgrade -y
